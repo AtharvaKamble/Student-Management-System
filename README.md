@@ -1,0 +1,1 @@
+Here conn.py consists of the sqlite3 connection to create a database in the CWD. Here project.py is the main. the main project also uses geocoding api and weather api to get current location of the user and display current weather respectively.
